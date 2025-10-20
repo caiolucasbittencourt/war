@@ -1,4 +1,4 @@
-# War em C
+# War
 
 Trabalho acadêmico desenvolvido para a disciplina de **Estrutura de Dados** do curso de **Análise e Desenvolvimento de Sistemas**.
 
